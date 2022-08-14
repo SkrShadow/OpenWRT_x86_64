@@ -1,0 +1,5 @@
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://github.com/coolsnowwolf/routing
+src-git smpackage https://github.com/kenzok78/small-package
+src-git jerry https://github.com/jerrykuku/openwrt-package
